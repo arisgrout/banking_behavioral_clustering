@@ -11,7 +11,7 @@ Determine customer segmentation, by:
 2. Use KMeans to find 3-5 clusters per category: demographics, banking behavior
 3. Reduce dimensions for plotting with PCA
 
-## TODO
+### TODO
 4. Visualize results by plotting clusters in 2D [radar charts](https://plotly.com/python/radar-chart/)
 5. Present findings and insights on clustered groups.
 
