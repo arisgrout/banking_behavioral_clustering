@@ -17,8 +17,8 @@ Determine:
 5. Present findings and insights on clustered groups.
 
 ### Data
-Financial transaction data from [here](https://drive.google.com/file/d/1zAjnf936aHkwVCq_BmA47p4lpRjyRzMf/view?usp=sharing).
-* The data contains following tables:
+Financial transaction data from [here](https://drive.google.com/file/d/1zAjnf936aHkwVCq_BmA47p4lpRjyRzMf/view?usp=sharing).\
+The data contains following tables:
 
 - twm_customer - information about customers
 - twm_accounts - information about accounts
