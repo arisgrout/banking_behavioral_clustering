@@ -2,8 +2,7 @@
 ## Objective
 Apply unsupervised learning strategies (PCA + K-means) to cluster customers by their demographics and behavior.
 
-Determine:
-1. Customer segmentation, by:
+Determine customer segmentation, by:
 * Demographics (only twm_customer table)
 * Banking behavior (after engineering useful features)
 
